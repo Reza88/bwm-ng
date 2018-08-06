@@ -1,0 +1,9 @@
+Component 
+-> Consists of the HTML and the TypeScript File they are binded by property binding and event binding 
+-> Consist of an existing metadata [selector, templateUrl, styles]
+-> Property Binding is <img [src]="imageUrl"> where "imageUrl" is defined in the component.ts file. 
+
+Modules 
+-> Central point where we are importing and exporting our modules and componentes need to run our project
+
+scss--> _ means the file is a partial css and it will be imported into other css files 
