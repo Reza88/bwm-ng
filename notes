@@ -6,4 +6,6 @@ Component
 Modules 
 -> Central point where we are importing and exporting our modules and componentes need to run our project
 
-scss--> _ means the file is a partial css and it will be imported into other css files 
+scss--> _ means the file is a partial css and it will be imported into other css files
+
+use the routerLink property instead of the href(calls to the server to reload the page )
