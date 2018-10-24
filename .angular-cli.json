@@ -32,6 +32,11 @@
         "includePaths": [
           "./styles"
         ]
+      },
+      "stylePreprocessorOptions":{
+        "includePaths": [
+          "./styles.scss"
+        ]
       }
     }
   ],
