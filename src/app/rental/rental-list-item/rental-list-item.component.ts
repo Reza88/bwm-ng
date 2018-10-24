@@ -14,4 +14,5 @@ export class RentalListItemComponent implements OnInit {
   ngOnInit() {
   }
 
+
 }
